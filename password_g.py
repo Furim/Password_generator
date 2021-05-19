@@ -1,3 +1,5 @@
+#u need too add the file that contain all words that u want to generate from your password
+
 import random
 import hashlib
 
